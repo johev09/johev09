@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Joe here 😎
 
 <!--
 **johev09/johev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=johev09)
+
+Thank you for visiting my github profile. ✨
+
