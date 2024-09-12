@@ -1,6 +1,6 @@
 # Hi there 👋, I am Jhohev 🧑‍💻
 
-You can find my cv here: [Jhohev Sk - Resume.pdf](https://drive.google.com/file/d/1_tx91e2jbQoX9LpWerbk9Y1Wq66CSLLT/view)
+You can find my resume here: [Jhohev Sk - Resume.pdf](https://drive.google.com/file/d/1_tx91e2jbQoX9LpWerbk9Y1Wq66CSLLT/view)
 
 ## Feel free to connect with me at ...
 
@@ -10,7 +10,7 @@ You can find my cv here: [Jhohev Sk - Resume.pdf](https://drive.google.com/file/
 <br>
 <br>
 
-Thank you for visiting my github profile. ✨
+Thank you for visiting my github profile. Have a nice rest of your day. ✨
 > You can find the cool github badges here:
 > * https://github.com/Ileriayo/markdown-badges
 > * https://home.aveek.io/GitHub-Profile-Badges/
