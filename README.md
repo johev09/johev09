@@ -1,21 +1,16 @@
-## Hi there 👋 Joe here 😎
+# Hi there 👋, I am Jhohev 🧑‍💻
 
-<!--
-**johev09/johev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find my cv here: [Jhohev Sk - Resume.pdf](https://drive.google.com/file/d/1_tx91e2jbQoX9LpWerbk9Y1Wq66CSLLT/view)
 
-Here are some ideas to get you started:
+## Feel free to connect with me at ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/johev09/)
 
-![](https://komarev.com/ghpvc/?username=johev09)
+<br>
+<br>
+<br>
 
 Thank you for visiting my github profile. ✨
-
+> You can find the cool github badges here:
+> * https://github.com/Ileriayo/markdown-badges
+> * https://home.aveek.io/GitHub-Profile-Badges/
