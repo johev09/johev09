@@ -22,6 +22,6 @@
 
 ## Thank you for visiting my github profile. Have a nice rest of your day. ✨
 
-> Please take this return gift for visiting. You can find the cool github badges here:
+> As a thank-you gift, sharing references to the cool github badges I had found:
 > * https://github.com/Ileriayo/markdown-badges
 > * https://home.aveek.io/GitHub-Profile-Badges/
