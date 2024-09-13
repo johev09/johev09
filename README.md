@@ -12,11 +12,11 @@
 
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWduZmozcDM1eTFtMml2MTZ2eXJyaDZyYTU5ZmZhMDB1MDhhNjF3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZWx7CHCCXdcKKVsgvc/giphy-downsized.gif)
 
-## Just kidding. Feel free to connect with me at ...
+## Just kidding 😅. Feel free to connect with me at ...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/johev09/)
 
-## Or buy me a coffe for the laugh? 😅
+## Or buy me a ☕ for the laugh? 😄
 
 <a href="https://buymeacoffee.com/jhohev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
