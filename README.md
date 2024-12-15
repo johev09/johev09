@@ -5,7 +5,7 @@
 ## Probably here for my Resume?
 
 > [!TIP]
-> Here it is: [Jhohev Sk - Resume.pdf](https://drive.google.com/file/d/1_tx91e2jbQoX9LpWerbk9Y1Wq66CSLLT/view)
+> Here it is 👉 [Jhohev Sk - Resume.pdf](https://drive.google.com/file/d/1_tx91e2jbQoX9LpWerbk9Y1Wq66CSLLT/view)
 
 ## No? Well, that's awkward.
 
@@ -16,12 +16,14 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/johev09/)
 
-## Or would you like to buy me a ☕ for the laugh? 😄
+## Or would you like to
 
 <a href="https://buymeacoffee.com/jhohev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-## Thank you for visiting my github profile. Have a nice rest of your day. ✨
+...for the laugh? 😄
 
-> I will leave you with these references to cool github badges I had found:
+## Thank you for visiting my github profile. Have a great rest of your day. ✨
+
+> Feel free to explore some cool GitHub badges while you are here:
 > * https://github.com/Ileriayo/markdown-badges
 > * https://home.aveek.io/GitHub-Profile-Badges/
